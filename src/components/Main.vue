@@ -150,7 +150,7 @@
       </div>
     </div>
     <div>
-      <p v-if="Tasks.length == 0" class=" text-4xl text-opacity-75 mt-10">there are no tasks to ShowAlert</p>
+      <p v-if="Tasks.length == 0" class=" text-4xl text-opacity-75 mt-10">there are no tasks to show</p>
     </div>
   </div>
 </template>
